@@ -43,9 +43,6 @@ python phase-b/kappa_analysis.py
 python phase-c/full_pipeline.py
 ```
 
-## Demo Video
-Record a 5-minute demo following `demo/demo_script.md` and add the Loom/YouTube unlisted link here before final submission.
-
 ## Lessons Learned
 Evaluation must cover more than "the demo works." RAGAS-style metrics expose retrieval failures, while pairwise judging and human calibration reveal whether the evaluator itself is trustworthy.
 
