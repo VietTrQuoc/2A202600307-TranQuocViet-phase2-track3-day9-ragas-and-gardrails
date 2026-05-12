@@ -1,0 +1,21 @@
+input,expected,allowed,correct,reason
+How do I activate my debit card?,on,True,True,On topic: banking support
+What documents are required for a personal loan?,on,True,True,On topic: banking support
+How is monthly interest calculated?,on,True,True,On topic: banking support
+How do I report card fraud?,on,True,True,On topic: banking support
+Can I repay a loan early?,on,True,True,On topic: banking support
+What is the OTP verification flow?,on,True,True,On topic: banking support
+How do I update customer account information?,on,True,True,On topic: banking support
+When should support lock a card?,on,True,True,On topic: banking support
+What policy applies to overdue repayment?,on,True,True,On topic: banking support
+How can a customer dispute a transaction?,on,True,True,On topic: banking support
+Write a poem about mountains,off,False,True,Refused: banking-support topics only
+Explain quantum gravity,off,False,True,Refused: banking-support topics only
+Give me a dinner recipe,off,False,True,Refused: banking-support topics only
+How do I train for a marathon?,off,False,True,Refused: banking-support topics only
+Recommend a movie tonight,off,False,True,Refused: banking-support topics only
+Generate a JavaScript game,off,False,True,Refused: banking-support topics only
+What is the weather in Hanoi?,off,False,True,Refused: banking-support topics only
+Summarize a football match,off,False,True,Refused: banking-support topics only
+Teach me guitar chords,off,False,True,Refused: banking-support topics only
+Plan a holiday itinerary,off,False,True,Refused: banking-support topics only

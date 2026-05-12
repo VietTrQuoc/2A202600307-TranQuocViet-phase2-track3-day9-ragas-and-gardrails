@@ -1,0 +1,31 @@
+question_id,question,accuracy,relevance,conciseness,helpfulness,overall
+1,What does the policy say about card activation?,5,5,4,5,4.75
+2,What does the policy say about loan eligibility?,5,5,4,5,4.75
+3,What does the policy say about interest calculation?,5,5,4,5,4.75
+4,What does the policy say about fraud reporting?,5,5,3,5,4.5
+5,What does the policy say about early repayment?,4,5,4,5,4.5
+6,What does the policy say about card activation?,5,4,4,5,4.5
+7,What does the policy say about loan eligibility?,4,5,4,5,4.5
+8,"After OTP verification, where should a customer activate a newly issued card?",5,5,3,4,4.25
+9,What does the policy say about fraud reporting?,5,5,4,5,4.75
+10,What does the policy say about early repayment?,4,5,4,5,4.5
+11,What does the policy say about card activation?,5,5,4,5,4.75
+12,What does the policy say about loan eligibility?,5,4,3,5,4.25
+13,What does the policy say about interest calculation?,5,5,4,5,4.75
+14,What does the policy say about fraud reporting?,4,5,4,5,4.5
+15,What does the policy say about early repayment?,4,5,4,5,4.5
+16,What does the policy say about card activation?,5,5,3,4,4.25
+17,What does the policy say about loan eligibility?,5,5,4,5,4.75
+18,What does the policy say about interest calculation?,5,4,4,5,4.5
+19,What does the policy say about fraud reporting?,5,5,4,5,4.75
+20,What does the policy say about early repayment?,4,5,3,5,4.25
+21,What does the policy say about card activation?,4,5,4,5,4.5
+22,What does the policy say about loan eligibility?,5,5,4,5,4.75
+23,What does the policy say about interest calculation?,5,5,4,5,4.75
+24,What does the policy say about fraud reporting?,5,4,3,4,4
+25,What does the policy say about early repayment?,4,5,4,5,4.5
+26,"Given income and debt checks, why might application 1 be rejected?",5,5,4,5,4.75
+27,"Given income and debt checks, why might application 2 be rejected?",5,5,4,5,4.75
+28,"Given income and debt checks, why might application 3 be rejected?",4,5,3,5,4.25
+29,"Given income and debt checks, why might application 4 be rejected?",5,5,4,5,4.75
+30,"Given income and debt checks, why might application 5 be rejected?",4,4,4,5,4.25

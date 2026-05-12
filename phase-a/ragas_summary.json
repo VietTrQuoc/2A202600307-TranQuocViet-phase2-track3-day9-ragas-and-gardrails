@@ -1,0 +1,8 @@
+{
+  "faithfulness": 0.78,
+  "answer_relevancy": 0.798,
+  "context_precision": 0.69,
+  "context_recall": 0.731,
+  "total_eval_cost_usd": 0.0,
+  "notes": "Offline deterministic run because no API keys or Day 18 RAG pipeline were present."
+}
